@@ -8,7 +8,7 @@ packages = [{include = "useless_package"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
-malicious_horsey_9000 = { git = "https://github.com/kiloreven/malicious-horsey-9000.git", rev = "850e2e" }
+malicious_horsey_9000 = { git = "https://github.com/kiloreven/malicious-horsey-9000.git", rev = "699c38" }
 
 
 [build-system]
